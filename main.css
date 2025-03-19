@@ -1,0 +1,1 @@
+.container{display:grid;gap:5px;grid-template-columns:repeat(4,100px);grid-template-rows:repeat(4,100px);justify-content:center}.cell{border:2px solid #000}.cell-active{background-image:url(2dbd01ce16c0fa83cb67.png);background-size:contain}
