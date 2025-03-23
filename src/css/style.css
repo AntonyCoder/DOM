@@ -14,3 +14,13 @@
     background-image: url(../img/goblin.png);
     background-size: contain;
 }
+
+table{
+    margin: 50px auto;
+}
+
+td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px 10px;
+}
